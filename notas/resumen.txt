@@ -1,0 +1,8 @@
+Usé create-react-app, start es el serv de desarrollo, build es para llevar a producción, test para test y eject es borrar.
+
+Tenemos ya cierta estructura
+React utiliza JSX es lenguaje como HTML pero en JS, y si lo escribimos con React es complejo por eso se hizo JSX parecido a HTML para facilitar.
+
+props, eventos, hooks *usetate effect, localstorage eso es el flujo de una app de react
+
+props van de mas arriba a mas abajo y eventos d mas abajo a mas arriba como burbuja
